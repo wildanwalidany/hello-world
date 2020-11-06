@@ -2,4 +2,5 @@
 
 hi humans
 
-wildan here. trying to learn git
+wildan here. trying to learn git.
+wish me luck
